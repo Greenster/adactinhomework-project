@@ -1,7 +1,7 @@
-#Java Automation Project
-##Base Point for Java Automation Projects
+#Adactin Homework Automation Project
+##Homework Java Automation Projects
 
-*Project for creating automation tests using Selenium WebDriver and TestNG.*
+*Project for creating automation test cases using Selenium WebDriver and TestNG.*
 
 **Java 7**
 
